@@ -1,0 +1,15 @@
+2017 8 2 22 29 3.323000e+01 
+MATLAB:webcam:connectionExists 
+An active connection to webcam, Microsoft LifeCam Cinema, already exists. You cannot create another connection to the same webcam. 
+2017 8 2 22 55 4.216300e+01 
+MATLAB:webcam:connectionExists 
+An active connection to webcam, Microsoft LifeCam Cinema, already exists. You cannot create another connection to the same webcam. 
+2017 8 3 7 33 3.575500e+01 
+MATLAB:webcam:connectionExists 
+An active connection to webcam, Microsoft® LifeCam Cinema(TM), already exists. You cannot create another connection to the same webcam. 
+2017 12 13 7 55 3.887000e+00 
+MATLAB:webcam:supportPkgNotInstalled 
+MATLAB Support Package for USB Webcams has not been installed. Open <a href="matlab: matlab.addons.supportpackage.internal.explorer.showSupportPackages('USBWEBCAM', 'tripwire');">Add-Ons Explorer</a> to install the Webcam Support Package. 
+2017 12 13 7 57 4.414100e+01 
+MATLAB:webcam:supportPkgNotInstalled 
+MATLAB Support Package for USB Webcams has not been installed. Open <a href="matlab: matlab.addons.supportpackage.internal.explorer.showSupportPackages('USBWEBCAM', 'tripwire');">Add-Ons Explorer</a> to install the Webcam Support Package. 
